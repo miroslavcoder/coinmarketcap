@@ -1,0 +1,5 @@
+export const SET_DATA = 'SET_DATA';
+export const SEARCH_COINS = 'SEARCH_COINS';
+export const ADD_TO_FAVORITES = 'ADD_TO_FAVORITES';
+export const DELETE_FAVORITE = 'DELETE_FAVORITE';
+export const SET_FAVORITES = 'SET_FAVORITES';
